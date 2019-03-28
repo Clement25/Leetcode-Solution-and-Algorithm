@@ -1,1 +1,1 @@
-# Leetcode-
+# Algorithm
